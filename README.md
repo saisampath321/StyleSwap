@@ -1,5 +1,5 @@
-# Style Swap: Hairstyle Transformation with Deep 
-Learning AI
+# Style Swap: Hairstyle Transformation with Deep Learning AI
+
 [Sorayut Meeyim](https://github.com/sorayutmild), [Phalapat Tektrakul](https://github.com/phalapat), [Pakkaphong Akkabut](https://github.com/sanviiz), Werapon Chiracharit
 
 [PROCEEDING ECTI-CARD 2022](https://ecticard2022.ecticard.org/program/PROCEEDING%20ECTI%20CARD2022.pdf), [Paper](https://github.com/sanviiz/hairstyle-try-on/blob/dev-mild/misc/Realistic-Hairstyle-try-on-paper.pdf), [Slide](https://github.com/sanviiz/hairstyle-try-on/blob/dev-mild/misc/Realistic-Hairstyle-try-on-presentation.pdf)
